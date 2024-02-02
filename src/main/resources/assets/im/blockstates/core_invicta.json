@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "im:core_invicta" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "im:core_invicta" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "im:core_invicta","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "im:core_invicta","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "im:core_invicta","y":180 
+        }
+    }
+}

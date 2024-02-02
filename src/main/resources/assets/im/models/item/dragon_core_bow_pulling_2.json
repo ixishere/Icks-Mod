@@ -1,0 +1,7 @@
+{
+    "parent": "item/bow",
+    "textures": 
+    {
+        "layer0": "im:items/dragon_core_bow_2"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ECE",
+        "EDE",
+        "DDD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "im:diamond_block_panel"
+        },
+        
+        "E":
+        {
+            "item": "im:end_stone_panel"
+        },
+        
+        "C":
+        {
+            "item": "im:dragon_core"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:core_invicta",
+        "count": 1
+    }
+}

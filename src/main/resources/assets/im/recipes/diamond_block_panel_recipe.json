@@ -1,0 +1,24 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "im:diamond_block_panel",
+        "count": 2
+    }
+}

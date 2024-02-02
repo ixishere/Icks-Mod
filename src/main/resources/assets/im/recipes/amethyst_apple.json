@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "IAI",
+        "III"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:apple"
+        },
+        
+        "I":
+        {
+            "item": "im:amethyst_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:amethyst_apple",
+        "count": 1
+    }
+}

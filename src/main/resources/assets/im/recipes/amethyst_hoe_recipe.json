@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " AA",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "im:amethyst_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:amethyst_hoe",
+        "count": 1
+    }
+}

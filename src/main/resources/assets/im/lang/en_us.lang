@@ -1,0 +1,51 @@
+﻿//Items
+item.amethyst_ingot.name=Amethyst Ingot
+//Blocks
+tile.amethyst_block.name=Amethyst Block
+tile.amethyst_ore.name=Amethyst Ore
+//Tools
+item.amethyst_sword.name=Amethyst Sword
+item.amethyst_pickaxe.name=Amethyst Pickaxe
+item.amethyst_axe.name=Amethyst Axe
+item.amethyst_shovel.name=Amethyst Shovel
+item.amethyst_hoe.name=Amethyst Hoe
+//Armor
+item.amethyst_helmet.name=Amethyst Helmet
+item.amethyst_chestplate.name=Amethyst Chestplate
+item.amethyst_leggings.name=Amethyst Leggings
+item.amethyst_boots.name=Amethyst Boots
+//Food
+item.amethyst_apple.name=Amethyst Apple
+item.amethyst_super_apple.name=Super Amethyst Apple
+
+
+//Mobs
+entity.wulick.name=Wulick
+entity.hunter.name=Hunter
+
+//Tabs
+itemGroup.ickstab=Icks Mod
+
+//
+item.dragon_core_helmet.name=Dragon Core Helmet
+item.dragon_core_chestplate.name=Dragon Core Chestplate
+item.dragon_core_wings_chestplate.name=Dragon Core Wings Infused Chestplate
+item.dragon_core_leggings.name=Dragon Core Leggings
+item.dragon_core_boots.name=Dragon Core Boots
+
+item.dragon_core_sword.name=Dragon Core Sword
+//
+item.dragon_core.name=Dragon Core
+tile.dragon_core_block.name=Dragon Core Block
+item.end_stone_panel.name=End Stone Panel
+item.diamond_block_panel.name=Diamond Block Panel
+item.fluid_immaculator.name=Fluid Immaculator
+//
+item.inactive_dragon_wings.name=Inactive Dragon Wings
+item.inactive_dragon_core_wings.name=Inactive Dragon Core Wings
+//
+tile.core_invicta.name=Invicta Core
+//
+item.dragon_core_bow.name=Dragon Core Bow
+item.dragon_core_arrow.name=Dragon Core Arrow
+entity.dragon_core_arrow.name=Dragon Core Arrow

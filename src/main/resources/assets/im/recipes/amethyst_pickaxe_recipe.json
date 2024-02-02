@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "im:amethyst_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:amethyst_pickaxe",
+        "count": 1
+    }
+}

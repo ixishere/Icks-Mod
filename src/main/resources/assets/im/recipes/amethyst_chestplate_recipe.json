@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "im:amethyst_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "im:amethyst_chestplate",
+        "count": 1
+    }
+}

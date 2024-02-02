@@ -1,0 +1,24 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "im:dragon_core"
+    },
+    {
+      "item": "im:dragon_core"
+    },
+    {
+      "item": "im:dragon_core"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "im:dragon_core_block",
+        "count": 1
+    }
+}
